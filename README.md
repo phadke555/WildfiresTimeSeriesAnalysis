@@ -8,3 +8,5 @@ Method: It was important to take a look at past historical data to understand ho
 
 
 Here is a link to the data: https://drive.google.com/file/d/1BYZJqNL3YfSc7ivZujR72Zqm9MDaY4ym/view?usp=sharing
+
+Our analysis won 1st place in the Health Science Track of the Carolina Data Challenge held at UNC Chapel Hill.
